@@ -10,3 +10,10 @@ Requirements:
 -math
 
 -pynput
+
+Key:
+1: Phone call noise
+
+0: Stop
+
+]: Exit
